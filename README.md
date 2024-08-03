@@ -1,21 +1,21 @@
 # Operating System Lab projects Fall-2023
 - Operating System Lab Projects F2023
   - [Intro](#Intro)
-  - Experiment 1: Introduction to xv6
-    - Task 1: Boot Message
-    - Task 2: Console Features
-    - Task 3: User Program
-  - Experiment 2: System Calls
-    - Task 1: System Call Using Registers
-    - Task 2: System Call Using Stack
-  - Experiment 3: Process Scheduling
-    - Task 1: Multi-Level Feedback Queue
-    - Task 2: Aging
-    - Task 3: System Calls
+  - [Experiment 1: Introduction to xv6](#Experiment-1-Introduction-to-xv6)
+    - [Task 1: Boot Message](#Task-1-Boot-Message)
+    - [Task 2: Console Features](#Task-2-Console-Features)
+    - [Task 3: User Program](#Task-3-User-Program)
+  - [Experiment 2: System Calls](#Experiment-2-System-Calls)
+    - [Task 1: System Call Using Registers](#Task-1-System-Call-Using-Registers)
+    - [Task 2: System Call Using Stack](#Task-2-System-Call-Using-Stack)
+  - [Experiment 3: Process Scheduling](#Experiment-3-Process-Scheduling)
+    - [Task 1: Multi-Level Feedback Queue](#Task-1-Multi-Level-Feedback-Queue)
+    - [Task 2: Aging](#Task-2-Aging)
+    - [Task 3: System Calls](#Task-3-System-Calls)
   - [Experiment 4: Synchronization](#Experiment-4-Synchronization)
-    - Task 1: Number of System Calls
-    - Task 2: Priority Lock
-  - Experiment 5: Memory Management
+    - [Task 1: Number of System Calls](#Task-1-Number-of-System-Calls)
+    - [Task 2: Priority Lock](#Task-2-Priority-Lock)
+  - [Experiment 5: Memory Management](#Experiment-5-Memory-Management)
  
 ## Intro
 In these projects, additional features were implemented in the xv6 operating system, which is designed for the x86 architecture.
