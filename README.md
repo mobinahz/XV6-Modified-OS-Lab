@@ -1,6 +1,6 @@
 # Operating System Lab projects Fall-2023
 - Operating System Lab Projects F2023
-  - [Intro](##Intro)
+  - [Intro](#Intro)
   - Experiment 1: Introduction to xv6
     - Task 1: Boot Message
     - Task 2: Console Features
@@ -12,7 +12,7 @@
     - Task 1: Multi-Level Feedback Queue
     - Task 2: Aging
     - Task 3: System Calls
-  - [Experiment 4: Synchronization](##Experiment4:Synchronization)
+  - [Experiment 4: Synchronization](#Experiment4:Synchronization)
     - Task 1: Number of System Calls
     - Task 2: Priority Lock
   - Experiment 5: Memory Management
