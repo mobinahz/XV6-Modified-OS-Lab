@@ -1,6 +1,6 @@
 # Operating System Lab projects Fall-2023
 - Operating System Lab Projects F2023
-  - [Intro](Intro)
+  - [Intro](##Intro)
   - Experiment 1: Introduction to xv6
     - Task 1: Boot Message
     - Task 2: Console Features
