@@ -12,7 +12,7 @@
     - Task 1: Multi-Level Feedback Queue
     - Task 2: Aging
     - Task 3: System Calls
-  - [Experiment 4: Synchronization](#Experiment4:Synchronization)
+  - [Experiment 4: Synchronization](#Experiment-4:-Synchronization)
     - Task 1: Number of System Calls
     - Task 2: Priority Lock
   - Experiment 5: Memory Management
