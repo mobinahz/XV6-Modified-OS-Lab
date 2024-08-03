@@ -94,6 +94,23 @@ int set_bjf_params_system(float priority_ratio, float arrival_time_ratio, float 
 void print_process_info(void);
 ```
 
+## Experiment 4: Synchronization
+### Task 1: Number of System Calls
+As part of the synchronization experiment, we count the number of system calls. First, we ensure the operating system is running on 4 cores, then we execute the getnsyscalls program. The program is called using:
+```CPP
+int getnsyscalls();
+```
+The result, which includes the count of system calls on each core and their total, is displayed on the console. To ensure accurate counting, we use spin locks to prevent any process from being interrupted during the counting process.
+### Task 2: Priority Lock
+A priority lock has been introduced into the system, operating based on the spin lock policy. The following system calls have been added to manage this lock:
+```CPP
+void acquirepriority(struct prioritylock* lk);
+void releasepriority(struct prioritylock* lk);
+```
+## Experiment 5: Memory Management
+
+
+
 
 
 
