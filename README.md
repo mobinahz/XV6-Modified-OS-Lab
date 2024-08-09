@@ -109,7 +109,9 @@ void releasepriority(struct prioritylock* lk);
 ```
 ## Experiment 5: Memory Management
 
+## Contributors
 
+<a href="https://github.com/mobinahz"><img src="https://avatars.githubusercontent.com/u/12345?v=4" width="50" height="50"></a>
 
 
 
